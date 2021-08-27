@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>
+UDAN SUZUKI
+</title>
+</head>
+<body bgcolor="red">
+<center><img src=
